@@ -10,8 +10,8 @@ MYJSON = [
     },
     {
         "id": "13",
-        "name": "Akila",
-        "age": "23",
+        "name": "Aasha loosu",
+        "age": "20",
     }
 ]
 
